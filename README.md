@@ -9,3 +9,4 @@ This data set has information about the passengers who boarded the Titanic along
 
 The visualization shows information about the survival information based on their age distribution, passenger classes and their survival rates, the number of passenger that survived based on their embark location, the survival rates based on siblings and spouse data.
 
+### Overview/Insights on Titanic Data - Dashboard Snippet ![Titanic Data Visualization](Titanic Data Visualization.jpg)
